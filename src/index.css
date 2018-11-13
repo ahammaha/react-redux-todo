@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.marginTop{
+	margin-top: 60px; 
+}
+
+.glyphicon-size{
+  font-size: 20px;
+}
+
+td>span{
+  padding: 10px;  
+}
+
+.strike-text{_
+  text-decoration: line-through;
+}
